@@ -158,10 +158,10 @@ My contributions:
 
 ## 🎓 Education
 
-**MSc Computer Science**
+**MSc Computer Science (Ongoing)**
 University of Liverpool
 
-**BSc Physics**
+**BSc Theoretical Physics**
 University of Leeds
 
 ---

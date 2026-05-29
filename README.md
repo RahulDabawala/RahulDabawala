@@ -113,7 +113,7 @@ Recursive and iterative implementations of the Floyd-Warshall shortest path algo
 
 ### Travel Record Management System
 
-🔗 https://github.com/RobinUsername/travel-record-management-app](https://github.com/robinucar/travel-record-management-app
+🔗 https://github.com/robinucar/travel-record-management-app
 
 MSc group software engineering project completed as part of the University of Liverpool MSc Computer Science programme.
 
